@@ -1,5 +1,5 @@
 
-## Why use EMD for flares?
+## Why use Empirical Mode Decomposition for flares?
 
 - Solar and stellar flare light curves are typically non-stationary and may contain multiple overlapping processes: impulsive rise, quasi-periodic pulsations (QPPs), oscillatory relaxation, and slow trends.
 - EMD is a data-driven, adaptive method that decomposes a time series into intrinsic mode functions (IMFs) without imposing a fixed basis (like Fourier or wavelets). This makes it well suited to capture transient oscillations and evolving frequencies intrinsic to flare signals.
