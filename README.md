@@ -1,8 +1,4 @@
 
-# Empirical Mode Decomposition (EMD) for Solar Flare Analysis
-
-This brief README explains the scientific application of Empirical Mode Decomposition (EMD) to solar (and stellar) flare light-curve analysis. It is intentionally compact — meant as a quick reference for researchers who want to understand why and how EMD is used in flare time-series studies.
-
 ## Why use EMD for flares?
 
 - Solar and stellar flare light curves are typically non-stationary and may contain multiple overlapping processes: impulsive rise, quasi-periodic pulsations (QPPs), oscillatory relaxation, and slow trends.
